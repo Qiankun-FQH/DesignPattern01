@@ -3,6 +3,7 @@ package jww.qk.principle.singleresponsibility;
 /**
  * @author Qiankun
  * @date 2020/2/13 0013 -22:04
+ * @title 单一职责原则
  **/
 public class SingleResponsibility03 {
 
