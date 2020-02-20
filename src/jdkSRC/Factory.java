@@ -2,6 +2,9 @@ package jdkSRC;
 
 import java.util.Calendar;
 
+/**
+ * jdk -- 工厂模式
+ */
 public class Factory {
 
 	public static void main(String[] args) {
@@ -14,9 +17,7 @@ public class Factory {
 	    System.out.println("分:" + cal.get(Calendar.MINUTE));
 	    System.out.println("秒:" + cal.get(Calendar.SECOND));
 	    
-	    
 
-	    
 	}
 
 }
